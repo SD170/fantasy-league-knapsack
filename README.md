@@ -12,7 +12,7 @@ run with :
 The input format ::<br>
 Name : Player Name | Value : Player Value [followed by 'mil'] | Points : 10 [followed by 'pt']<br>
 Example- <br>
-```
+```<br>
 Name : Cristiano Ronaldo | Value : 50 mil | Points : 10 pt <br>
 Name : Lionel Messi | Value : 40 mil | Points : 9 pt <br>
 Name : Neymar Jr | Value : 30 mil | Points : 5 pt <br>
