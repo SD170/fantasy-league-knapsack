@@ -9,3 +9,12 @@ run with :
 ->You'll get the result
 
 <hr>
+The input format ::<br>
+Name : Player Name | Value : Player Value [followed by 'mil'] | Points : 10 [followed by 'pt']
+```
+example-<br>
+Name : Cristiano Ronaldo | Value : 50 mil | Points : 10 pt
+Name : Lionel Messi | Value : 40 mil | Points : 9 pt
+Name : Neymar Jr | Value : 30 mil | Points : 5 pt
+
+```
