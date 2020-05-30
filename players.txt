@@ -1,0 +1,24 @@
+Name : Cristiano Ronaldo | Value : 50 mil | Points : 10 pt
+Name : Lionel Messi | Value : 40 mil | Points : 9 pt
+Name : Neymar Jr | Value : 30 mil | Points : 5 pt
+Name : Kylian Mbappé | Value : 30 mil | Points : 8 pt
+Name : Robert Lewandowski | Value : 20 mil | Points : 9 pt
+Name : Sadio Mane | Value : 20 mil | Points : 9 pt
+Name : Mohamed Salah | Value : 20 mil | Points : 9 pt
+Name : Eden Hazard | Value : 10 mil | Points : 3 pt
+Name : Antoine Griezmann | Value : 10 mil | Points : 5 pt
+Name : Paulo Dybala | Value : 10 mil | Points : 6 pt
+Name : Kevin De Bruyne | Value : 20 mil | Points : 9 pt
+Name : Luka Modric | Value : 20 mil | Points : 7 pt
+Name : Toni Kroos | Value : 20 mil | Points : 7 pt
+Name : Frenkie de Jong | Value : 10 mil | Points : 4 pt
+Name : Christian Eriksen | Value : 10 mil | Points : 8 pt
+Name : Dele Alli | Value : 10 mil | Points : 3 pt
+Name : Virgil van Dijk | Value : 30 mil | Points : 9 pt
+Name : Sergio Ramos | Value : 30 mil | Points : 7 pt
+Name : Gerard Piqué | Value : 20 mil | Points : 6 pt
+Name : Giorgio Chiellini | Value : 20 mil | Points : 2 pt
+Name : Raphaël Varane | Value : 20 mil | Points : 3 pt
+Name : Matthijs de Ligt | Value : 10 mil | Points : 4 pt
+Name : Mats Hummels | Value : 10 mil | Points : 6 pt
+Name : Diego Godín | Value : 10 mil | Points : 5 pt
