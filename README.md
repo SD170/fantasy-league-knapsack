@@ -10,7 +10,7 @@ run with :
 
 <hr>
 The input format ::<br>
-Name : Player Name | Value : Player Value [followed by 'mil'] | Points : 10 [followed by 'pt']
+Name : Player Name | Value : Player Value [followed by 'mil'] | Points : 10 [followed by 'pt']<br>
 ```
 example-<br>
 Name : Cristiano Ronaldo | Value : 50 mil | Points : 10 pt
